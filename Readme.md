@@ -16,14 +16,12 @@ Ce projet est une application de gestion de projet qui permet de gérer les empl
 
 ## Installation
 
-1. Clonez le dépôt du projet :
-
+1.  Clonez le dépôt du projet :
    ```bash
-  - git clone <https://github.com/FatimataAliouSall/Composition-metier.git>
-  - cd <employee-management>
+  - git clone https://github.com/FatimataAliouSall/Composition-metier.git
+  - cd employee-management
 
 2.  Installez les dépendances :
-
 
     - npm install
 
@@ -44,7 +42,7 @@ Ce projet est une application de gestion de projet qui permet de gérer les empl
 
    Fatimata Aliou Sall [https://github.com/FatimataAliouSall/Composition-metier.git]
 
-##   Image du diagremme 
+##   Diagramme de classe 
 
 
    - ![Composant-metier](./asset/images/Composant-metier.PNG)
