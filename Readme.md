@@ -17,11 +17,9 @@ Ce projet est une application de gestion de projet qui permet de gérer les empl
 ## Installation
 
 1.  Clonez le dépôt du projet :
-
- ```bash
+   ```bash
   - git clone https://github.com/FatimataAliouSall/Composition-metier.git
   - cd employee-management
-
 
 2.  Installez les dépendances :
 
