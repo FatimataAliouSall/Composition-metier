@@ -35,7 +35,6 @@ Ce projet est une application de gestion de projet qui permet de gérer les empl
      
    ```bash
       - npm install
-
    ```
 
 
@@ -45,10 +44,9 @@ Ce projet est une application de gestion de projet qui permet de gérer les empl
 
 1.  Démarrez le serveur :
     
-     ```bash
+   ```bash
    -  npm start
-
-    ```
+   ```
 
 
 
