@@ -19,13 +19,13 @@ Ce projet est une application de gestion de projet qui permet de gérer les empl
 1. Clonez le dépôt du projet :
 
    ```bash
-  - git clone <URL_DU_DEPOT>
+  - git clone <https://github.com/FatimataAliouSall/Composition-metier.git>
   - cd <employee-management>
 
 2.  Installez les dépendances :
 
 
-   - npm install
+    - npm install
 
 
 
@@ -34,7 +34,7 @@ Ce projet est une application de gestion de projet qui permet de gérer les empl
 
 1.  Démarrez le serveur :
 
-  - npm start
+    - npm start
 
 
 2.  Le serveur sera accessible à l'adresse http://localhost:3000.
@@ -42,9 +42,9 @@ Ce projet est une application de gestion de projet qui permet de gérer les empl
 
 ##   Auteur
 
-   Fatimata Aliou Sall []
+   Fatimata Aliou Sall [https://github.com/FatimataAliouSall/Composition-metier.git]
 
 ##   Image du diagremme 
 
 
-   - ![Composition-metier]()
+   - ![Composant-metier](./asset/images/Composant-metier.PNG)
