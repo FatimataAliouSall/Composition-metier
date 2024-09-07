@@ -72,10 +72,7 @@ app.get("/app", (req, res) => {
     statut: "A faire",
     priorite: "Basse",
   });
-  console.log("**************")
-  // Assignation.assign({employe: e1.getEmp(), tache: t1.getTache(), dateAssignation: new Date()})
-  // Assignation.assign({employe: e1.getEmp(), tache: t2.getTache(), dateAssignation: new Date()})
-  // Assignation.assign({employe: e2.getEmp(), tache: t1.getTache(), dateAssignation: new Date()})
+  
   Assignation.assign({employe: e1.getEmp(), tache: t3.getTache(), dateAssignation: new Date()})
   Assignation.assign({employe: e2.getEmp(), tache: t2.getTache(), dateAssignation: new Date()})
 
